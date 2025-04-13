@@ -10,7 +10,7 @@ A simple console-based quiz game written in C++. This game asks 5 multiple-choic
 
 ## 🛠 How to Run
 - Open the project in Code::Blocks or any C++ IDE
-- Compile and run `quiz_game.cpp`
+- Compile and run .cpp file
 - Answer the questions and see your score!
 
 ## 🚀 What I Learned
